@@ -37,4 +37,7 @@ These skills were learned at the Meraki Academy Bootcamp.
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amjed-Amro)](https://github.com/anuraghazra/github-readme-stats)
   
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amjed-Amro&show_icons=true&theme=radical)
+
+  
 💬 Please feel free to contact me via [![Linkedin Badge](https://img.shields.io/badge/-Muath-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muath-al-nahhas/) .I'm always looking forward to an insightful conversation over new technology, or even better, your achievements!
