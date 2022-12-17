@@ -1,6 +1,4 @@
-# Amjed_readme
-
-<h2> 👋 Hello, I'm Muath </h2>
+<h2> 👋 Hello, I'm Amjed </h2>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div></br>
